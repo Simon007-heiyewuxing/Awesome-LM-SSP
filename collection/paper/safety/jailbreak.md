@@ -1,4 +1,5 @@
 # A1. Jailbreak
+- [2025/12] **[Metaphor-based Jailbreaking Attacks on Text-to-Image Models](https://arxiv.org/abs/2512.10766)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/12] **[Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models](https://arxiv.org/abs/2512.03356)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/11] **[Scaling Patterns in Adversarial Alignment: Evidence from Multi-LLM Jailbreak Experiments](https://arxiv.org/abs/2511.13788)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/11] **[Multi-Faceted Attack: Exposing Cross-Model Vulnerabilities in Defense-Equipped Vision-Language Models](https://arxiv.org/abs/2511.16110)** ![VLM](https://img.shields.io/badge/VLM-c7688b) ![AAAI'26](https://img.shields.io/badge/AAAI'26-f1b800)

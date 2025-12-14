@@ -1,4 +1,6 @@
 # B3. Poison & Backdoor
+- [2025/12] **[MIRAGE: Misleading Retrieval-Augmented Generation via Black-box and Query-agnostic Poisoning Attacks](https://arxiv.org/abs/2512.08289)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
+- [2025/12] **[Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs](https://arxiv.org/abs/2512.09742)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[Bias Injection Attacks on RAG Databases and Sanitization Defenses](https://arxiv.org/abs/2512.00804)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)
 - [2025/11] **[AutoBackdoor: Automating Backdoor Attacks via LLM Agents](https://arxiv.org/abs/2511.16709)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Secure Retrieval-Augmented Generation against Poisoning Attacks](https://arxiv.org/abs/2510.25025)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![RAG](https://img.shields.io/badge/RAG-87b800)

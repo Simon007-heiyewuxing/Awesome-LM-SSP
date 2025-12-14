@@ -1,4 +1,6 @@
 # A3. Deepfake
+- [2025/12] **[FBA^2D: Frequency-based Black-box Attack for AI-generated Image Detection](https://arxiv.org/abs/2512.09264)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
+- [2025/12] **[TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection](https://arxiv.org/abs/2512.10652)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/11] **[Transferable Dual-Domain Feature Importance Attack against AI-Generated Image Detector](https://arxiv.org/abs/2511.15571)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/10] **[DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection](https://arxiv.org/abs/2510.22622)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/10] **[Modeling the Attack: Detecting AI-Generated Text by Quantifying Adversarial Perturbations](https://arxiv.org/abs/2510.02319)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

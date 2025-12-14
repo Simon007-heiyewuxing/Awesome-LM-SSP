@@ -1,4 +1,5 @@
 # C9. Watermark & Copyright
+- [2025/12] **[Watermarks for Language Models via Probabilistic Automata](https://arxiv.org/abs/2512.10185)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[MarkTune: Improving the Quality-Detectability Trade-off in Open-Weight LLM Watermarking](https://arxiv.org/abs/2512.04044)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting](https://arxiv.org/abs/2512.03620)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[PRO: Enabling Precise and Robust Text Watermark for Open-Source LLM](https://arxiv.org/abs/2510.23891)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
