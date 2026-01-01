@@ -5,6 +5,7 @@
 - [2025/12] **[Watermarks for Language Models via Probabilistic Automata](https://arxiv.org/abs/2512.10185)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[MarkTune: Improving the Quality-Detectability Trade-off in Open-Weight LLM Watermarking](https://arxiv.org/abs/2512.04044)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[SELF: A Robust Singular Value and Eigenvalue Approach for LLM Fingerprinting](https://arxiv.org/abs/2512.03620)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[ImageSentinel: Protecting Visual Datasets from Unauthorized Retrieval-Augmented Image Generation](https://arxiv.org/abs/2510.12119)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/luo-ziyuan/ImageSentinel) ![VLM](https://img.shields.io/badge/VLM-c7688b) ![RAG](https://img.shields.io/badge/RAG-87b800) ![NeurIPS'25](https://img.shields.io/badge/NeurIPS'25-f1b800)
 - [2025/10] **[PRO: Enabling Precise and Robust Text Watermark for Open-Source LLM](https://arxiv.org/abs/2510.23891)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Cross-Lingual Summarization as a Black-Box Watermark Removal Attack](https://arxiv.org/abs/2510.24789)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[SLIP-SEC: Formalizing Secure Protocols for Model IP Protection](https://arxiv.org/abs/2510.24999)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
